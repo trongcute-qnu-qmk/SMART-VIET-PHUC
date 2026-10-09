@@ -1,0 +1,123 @@
+{
+  "dataset_name": "Smart Việt Phục - dữ liệu trang phục gốc",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "male_ngu_than_tay_chen_nguyen",
+      "gender": "male",
+      "name": "Áo Ngũ Thân Tay Chẽn",
+      "category": "Áo ngũ thân",
+      "period_region": "Nam - thời Nguyễn",
+      "source": "Nam.pdf, trang 1",
+      "images": [
+        "images/nam_01_ao_ngu_than_tay_chen.jpg"
+      ],
+      "origin": "Năm 1744, Chúa Nguyễn Phúc Khoát ban hành quy định về trang phục, yêu cầu quan lại và nhân dân Đàng Trong đổi từ áo giao lĩnh sang áo ngũ thân gài khuy. Sang thế kỷ XIX, dưới triều Nguyễn, đặc biệt thời Minh Mạng, kiểu dáng áo ngũ thân được quy chuẩn hóa và phổ biến rộng rãi.",
+      "features": "Tài liệu nguồn xác định đây là áo ngũ thân tay chẽn nam; phần mô tả trong nguồn tập trung vào lịch sử hình thành và quá trình chuẩn hóa, không trình bày thêm đặc điểm cấu tạo chi tiết.",
+      "meaning_context": "Tài liệu nguồn cho biết áo ngũ thân trở thành quốc phục và thường phục phổ biến dưới thời Nguyễn; không nêu riêng các bối cảnh sử dụng hiện đại.",
+      "web_tags": [
+        "nam",
+        "áo ngũ thân",
+        "thời Nguyễn"
+      ]
+    },
+    {
+      "id": "male_ao_tac_nguyen",
+      "gender": "male",
+      "name": "Áo Tấc Nam",
+      "category": "Áo ngũ thân tay thụng",
+      "period_region": "Nam - thời Nguyễn",
+      "source": "Nam.pdf, trang 2",
+      "images": [
+        "images/nam_02_ao_tac_nam.jpg"
+      ],
+      "origin": "Năm 1744, Chúa Nguyễn Phúc Khoát ban hành sắc lệnh quy định lại trang phục ở Đàng Trong. Từ nền tảng áo giao lĩnh, kiểu áo ngũ thân gồm 5 vạt được hình thành và tiếp tục hoàn thiện dưới triều Nguyễn (1802-1945).",
+      "features": "Trong hệ thống ngũ thân thời Nguyễn, áo tấc là dạng áo tay thụng; nguồn đối chiếu với áo tay chẽn và xác định áo tấc mang tính lễ phục trang trọng.",
+      "meaning_context": "Phù hợp nhóm lễ phục/trang phục trang trọng theo mô tả của tài liệu nguồn.",
+      "web_tags": [
+        "nam",
+        "áo tấc",
+        "áo ngũ thân",
+        "lễ phục",
+        "thời Nguyễn"
+      ]
+    },
+    {
+      "id": "male_ao_the_bac_bo",
+      "gender": "male",
+      "name": "Áo The / Áo Ngũ Thân Dân Gian Phủ Sa Đen",
+      "category": "Áo ngũ thân dân gian",
+      "period_region": "Nam giới Bắc Bộ / Liền anh Quan họ",
+      "source": "Nam.pdf, trang 3",
+      "images": [
+        "images/nam_03_ao_the_ngu_than_phu_sa_den.jpg"
+      ],
+      "origin": "Áo ngũ thân xuất hiện từ cuộc cải cách trang phục của Chúa Nguyễn Phúc Khoát năm 1744 ở Đàng Trong, sau đó lan rộng ra cả nước và được triều Nguyễn chuẩn hóa.",
+      "features": "Khi phổ biến ở miền Bắc, kiểu dáng ngũ thân được dân gian hóa và kết hợp với vải the mỏng, màu sậm như phủ sa đen hoặc nâu gụ.",
+      "meaning_context": "Được dùng như trang phục lịch sự cho nam giới trong các dịp lễ hội, Tết hoặc sinh hoạt văn hóa như hát Quan họ.",
+      "web_tags": [
+        "nam",
+        "Bắc Bộ",
+        "Quan họ",
+        "lễ hội",
+        "Tết",
+        "áo the"
+      ]
+    },
+    {
+      "id": "nu-di-san-remix",
+      "gender": "female",
+      "name": "Áo Tấc Nữ – Di Sản & Remix",
+      "category": "Bộ sưu tập kép",
+      "period_region": "Nữ - Di sản & Hiện đại",
+      "source": "Smart Việt Phục",
+      "images": [
+        "images/female-remix/traditional-cream.jpg",
+        "images/female-remix/genz-cream.jpg"
+      ],
+      "image": "/assets/images/female-remix/traditional-cream.jpg",
+      "representativeColor": "cream",
+      "origin": "Truyền thống: Áo Tấc gắn với lịch sử trang phục Việt Nam thời Nguyễn, mang tính trang trọng, sử dụng trong nghi lễ. \nGen Z: Áo dài nữ cách tân lấy cảm hứng từ trang phục truyền thống Việt Nam, giữ tinh thần kín đáo thanh lịch.",
+      "features": "Mẫu Truyền thống: áo dáng rộng, tay rộng, chi tiết trang trí nghi lễ, khăn đội đầu và cách phối cổ điển. \nMẫu Gen Z: áo dài nữ cách tân kết hợp kính mắt, túi cói, trang sức và cách phối đương đại.",
+      "meaning_context": "Truyền thống: Phù hợp những bối cảnh lễ nghi, trang trọng, kế thừa di sản văn hóa. \nGen Z: Kế thừa tinh thần truyền thống kết hợp thẩm mỹ hiện đại trẻ trung.",
+      "web_tags": [
+        "nữ",
+        "áo tấc",
+        "truyền thống",
+        "gen z"
+      ],
+      "colors": [
+        {
+          "key": "cream",
+          "name": "Trắng/kem",
+          "hex": "#f9f6f0",
+          "image": "/assets/images/female-remix/traditional-cream.jpg"
+        },
+        {
+          "key": "red",
+          "name": "Đỏ",
+          "hex": "#dc2626",
+          "image": "/assets/images/female-remix/traditional-red.jpg"
+        },
+        {
+          "key": "blue",
+          "name": "Xanh dương",
+          "hex": "#2563eb",
+          "image": "/assets/images/female-remix/traditional-blue.jpg"
+        },
+        {
+          "key": "yellow",
+          "name": "Vàng",
+          "hex": "#eab308",
+          "image": "/assets/images/female-remix/traditional-yellow.jpg"
+        },
+        {
+          "key": "green",
+          "name": "Xanh lá",
+          "hex": "#16a34a",
+          "image": "/assets/images/female-remix/traditional-green.jpg"
+        }
+      ]
+    }
+  ]
+}
